@@ -1,4 +1,4 @@
-# Burger Making Kotlin App
+# Burger Building Kotlin App
 
 ### This calculates cost and calories when you try to build a burger with bun types, patty types, toppings, and a set quantity
 
